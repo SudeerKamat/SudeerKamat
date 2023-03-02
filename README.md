@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 👨🏻‍💻 About Me
-- 👨‍ I’m currently working as Senior Software Engineer.
+- 👨‍ I’m currently working as Associate Technical Lead.
 - 🔭 I'm 4x Salesforce Certified, 2x Copado Certified, 9x Ranger and 23x Superbadge.
 - 🌱 I’m currently learning Heroku & Salesforce Functions.
 - 👯 I’m looking to collaborate on GitHub and my blog sfdcsaga.blogspot.com & My YouTube Channel SFDC SAGA
