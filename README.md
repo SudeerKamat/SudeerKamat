@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 👨🏻‍💻 About Me
-- 👨‍ I’m currently working as Associate Technical Lead.
-- 🔭 I'm 4x Salesforce Certified, 2x Copado Certified, 9x Ranger and 23x Superbadge.
+- 👨‍ I’m currently working as Lead Software Engineer.
+- 🔭 I'm 6x Salesforce Certified, 2x Copado Certified, 14x Ranger and 48x Superbadge.
 - 🌱 I’m currently learning Heroku & Salesforce Functions.
 - 👯 I’m looking to collaborate on GitHub and my blog sfdcsaga.blogspot.com & My YouTube Channel SFDC SAGA
 - 💬 Ask me about Salesforce, Integration, Lightning Development
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 🛠 Tech Stack
 - 💻 Salesforce | .NET
 - 🌐 HTML | CSS | JavaScript | Bootstrap
-- 🛢  Salesforce
+- 🛢 Salesforce
 - 🔧 Visual Studio code | Git
